@@ -72,9 +72,9 @@ All the videos come from Cyrill Stachniss@[youtube](https://www.youtube.com/chan
 
 [Photogrammetry II - 05 - Iterative Solution for the Relative Orientation (2015_16).mp4](http://pan.baidu.com/s/1qXYkGGG)
 
-[Photogrammetry II - 06 - Triangulation and Absolute Orientation (2015_16).mp4]
+[Photogrammetry II - 06 - Triangulation and Absolute Orientation (2015_16).mp4](http://pan.baidu.com/s/1bS7EgQ)
 
-[Photogrammetry II - 07 - Bundle Adjustment - Part 1 (2015_16).mp4]
+[Photogrammetry II - 07 - Bundle Adjustment - Part 1 (2015_16).mp4](http://pan.baidu.com/s/1qYlbUIK)
 
 [Photogrammetry II - 07c - Bundle Adjustment - Part 2 (2015_16).mp4](http://pan.baidu.com/s/1boZrfXl)
 
